@@ -1,10 +1,10 @@
-# Hi there, I'm Nesan! 👋
+# Hi there, I'm Linganesan! 👋
 
 Welcome to my GitHub profile! I am a Software Engineer who is currently based in Singapore.
 
 ## About Me
 
-Experienced Software Engineer with 8 years of demonstrated history working in the computer software industry, specializing in Full Stack Web and Mobile application development. A polyglot programmer proficient in multiple languages and technologies, with deep expertise in AWS cloud services and building scalable, reliable cloud applications.
+Experienced Software Engineer with 8 years of demonstrated history working in the computer software industry, specializing in Full Stack Web and Mobile application end-to-end development. A polyglot programmer proficient in multiple languages and technologies, with deep expertise in AWS cloud services and building scalable, reliable cloud applications.
 
 ## Skills and Technologies
 
