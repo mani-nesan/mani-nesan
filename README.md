@@ -20,7 +20,7 @@ Experienced Software Engineer with 8 years of demonstrated history working in th
   
 ## Achievements and Certifications
 
-- **AWS Certified Solutions Architect – Associate**: Demonstrates expertise in designing scalable, secure, and cost-effective cloud solutions on AWS.
+- **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/4b4b592a-3b5f-4f8a-9bb6-7e083c960ba6/public_url)**: Demonstrates expertise in designing scalable, secure, and cost-effective cloud solutions on AWS.
 - **Research Publications**:  
   - *[Melvin is a conversational voice interface for cancer genomics data](https://pubmed.ncbi.nlm.nih.gov/38182884/)* – Published in **Communications Biology**, 2024.
   - *[Mutational signature assignment heterogeneity is widespread and can be addressed by ensemble approaches](https://pubmed.ncbi.nlm.nih.gov/37742051/)* – Published in **Briefings in Bioinformatics**, 2023.
