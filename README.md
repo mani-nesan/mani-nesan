@@ -9,14 +9,15 @@ Experienced Software Engineer with 8 years of demonstrated history working in th
 ## Skills and Technologies
 
 - **Programming Languages**: JavaScript/TypeScript, Java, Python, Dart, PL/SQL 
-- **Full-Stack Application Development**: Spring Boot, Django, Angular, Svelte, React 
+- **Full-Stack Application Development**: Spring Boot, Django, Angular, Svelte, React, TailwindCSS
 - **Source Control Management (SCM)**: Git, Maven, Gradle, GitHub, GitLab  
-- **Tools**: VS Code, IntelliJ, Postman, Figma, DrawIO, Android Studio, Github Copilot
-- **Continuous Delivery & Integration**: GitHub Actions, GitLab CI/CD, Jenkins, App Store, Play Store
+- **Tools**: VS Code, IntelliJ, Postman, Figma, Draw.io, Android Studio, Github Copilot
+- **Continuous Delivery & Integration**: GitHub Actions, GitLab CI/CD, Jenkins, SonarQube, AppStore, PlayStore
 - **Containerization & Orchestration**: Docker, AWS ECR & ECS, Kubernetes  
 - **Infrastructure as Code (IaC)**: AWS CloudFormation, AWS CDK, Firebase CLI  
 - **Databases**: PostgreSQL, Oracle, MySQL, DynamoDB, Firestore, GraphQL
 - **Cloud Platforms**: AWS, Firebase, Google Cloud
+- **Data Engineering & Pipelines**:  Nextflow, ETL
   
 ## Achievements and Certifications
 
@@ -24,12 +25,12 @@ Experienced Software Engineer with 8 years of demonstrated history working in th
 - **Research Publications**:  
   - *[Melvin is a conversational voice interface for cancer genomics data](https://pubmed.ncbi.nlm.nih.gov/38182884/)* – Published in **Communications Biology**, 2024.
   - *[Mutational signature assignment heterogeneity is widespread and can be addressed by ensemble approaches](https://pubmed.ncbi.nlm.nih.gov/37742051/)* – Published in **Briefings in Bioinformatics**, 2023.
-  - *[Dopa: a generalized android app for memory enhancement](http://dl.lib.uom.lk/handle/123/19723)* – Published in **CSI Symposium**, 2016.   
+  - *[Dopa: a generalized android app for memory enhancement](http://dl.lib.uom.lk/handle/123/19723)* – Published in **CSE Symposium, University of Moratuwa**, 2016.   
 ## Contact and Connect with Me
 
 - **Email**: [maninesan.work@gmail.com](mailto:maninesan.work@gmail.com)
 - **LinkedIn**: [nesan](https://www.linkedin.com/in/linganesan/)
-- **Blog**: [nesan.dev](https://nesan.dev)
+- **Website**: [nesan.dev](https://nesan.dev)
 
 Feel free to reach out to me if you have any questions, suggestions, or just want to connect!
 
