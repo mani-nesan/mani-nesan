@@ -9,7 +9,7 @@ Experienced Software Engineer with 8 years of demonstrated history working in th
 ## Skills and Technologies
 
 - **Programming Languages**: JavaScript/TypeScript, Java, Python, Dart, PL/SQL 
-- **Full-Stack Application Development**: Spring Boot, Django, Angular, Svelte, React, TailwindCSS
+- **Full-Stack Application Development**: Spring Boot, Django, Angular, Svelte, React, Flutter, TailwindCSS
 - **Source Control Management (SCM)**: Git, Maven, Gradle, GitHub, GitLab  
 - **Tools**: VS Code, IntelliJ, Postman, Figma, Draw.io, Android Studio, Github Copilot
 - **Continuous Delivery & Integration**: GitHub Actions, GitLab CI/CD, Jenkins, SonarQube, AppStore, PlayStore
