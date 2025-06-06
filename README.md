@@ -2,22 +2,7 @@
 
 Welcome to my GitHub profile! I am a Software Engineer who is currently based in Singapore.
 
-## About Me
-
-Experienced Software Engineer with 8 years of demonstrated history working in the computer software industry, specializing in Full Stack Web and Mobile application end-to-end development. A polyglot programmer proficient in multiple languages and technologies, with deep expertise in AWS cloud services and building scalable, reliable cloud applications.
-
-## Skills and Technologies
-
-- **Programming Languages**: JavaScript/TypeScript, Java, Python, Dart, PL/SQL 
-- **Full-Stack Application Development**: Spring Boot, Django, Angular, Svelte, React, Flutter, TailwindCSS
-- **Source Control Management (SCM)**: Git, Maven, Gradle, GitHub, GitLab  
-- **Tools**: VS Code, IntelliJ, Postman, Figma, Draw.io, Android Studio, Github Copilot
-- **Continuous Delivery & Integration**: GitHub Actions, GitLab CI/CD, Jenkins, SonarQube, AppStore, PlayStore
-- **Containerization & Orchestration**: Docker, AWS ECR & ECS, Kubernetes  
-- **Infrastructure as Code (IaC)**: AWS CloudFormation, AWS CDK, Firebase CLI  
-- **Databases**: PostgreSQL, Oracle, MySQL, DynamoDB, Firestore, GraphQL
-- **Cloud Platforms**: AWS, Firebase, Google Cloud
-- **Data Engineering & Pipelines**:  Nextflow, ETL
+With 8 years of demonstrated history working in the computer software industry, specializing in Full Stack Web and Mobile application end-to-end development. A polyglot programmer proficient in multiple languages and technologies, with deep expertise in AWS cloud services and building scalable, reliable cloud applications.
   
 ## Achievements and Certifications
 
