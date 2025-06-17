@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! I am a Software Engineer who is currently based in Singapore.
 
-8+ Years Experience | Cloud Architecture | Polyglot Programmer
 Experienced software engineer specializing in full-stack web and mobile application development. Polyglot programmer with deep AWS cloud expertise, building scalable applications that deliver business results. Proven track record in end-to-end development from concept to deployment
 
 ## Connect with Me
