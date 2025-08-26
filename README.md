@@ -7,7 +7,8 @@ Experienced software engineer specializing in full-stack web and mobile applicat
 ## Connect with Me
 - **Email**: [maninesan.work@gmail.com](mailto:maninesan.work@gmail.com)
 - **LinkedIn**: [Nesan](https://www.linkedin.com/in/linganesan/)
-- **Website**: [Nesan.dev](https://nesan.dev)
+- **Portfolio**: [Nesan.dev](https://nesan.dev)
+- **Blog**: [Nesan.blog](https://nesan.blog)
 
 Feel free to reach out to me if you have any questions, suggestions, or just want to connect!
 
